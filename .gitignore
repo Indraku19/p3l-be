@@ -23,6 +23,7 @@ coverage
 # Production
 **/build
 **/dist
+.medusa
 
 # Misc
 *.pem
